@@ -13,9 +13,10 @@
     "test": "node tests/test.js && node tests/test-sync.js"
   },
   "dependencies": {
-    "minimatch": "2.x",
-    "glob": "5.x"
+    "minimatch": "3.x",
+    "glob": "7.x"
   },
+  "license": "MIT",
   "licenses": [
     {
       "type": "MIT",
